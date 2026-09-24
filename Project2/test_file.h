@@ -10,6 +10,7 @@ struct Product
     string nameProd;
     int price;
     int count;
+    string sadasd;
 };
 
 struct MyListProduct
