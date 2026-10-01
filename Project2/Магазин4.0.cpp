@@ -14,6 +14,10 @@ struct prod
 	int price;
 	int count;
 
+
+
+
+    //int hgsdgsd;
 };
 
 int main() {
