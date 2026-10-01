@@ -16,8 +16,6 @@ struct prod
 
 
 
-
-    //int hgsdgsd;
 };
 
 int main() {
