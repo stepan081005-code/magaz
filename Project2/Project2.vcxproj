@@ -139,10 +139,10 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="КаменьНожницыБумага3.0.cpp" />
+    <ClInclude Include="test_file.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="test_file.h" />
+    <ClCompile Include="Магазин4.0.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
